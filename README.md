@@ -6,6 +6,8 @@ Repository dedicated to my Python studies and practice projects.
 - Basic Logic
 - Conditionals
 - Loops
+
+## Pending Topics
 - Functions
 - Lists and Dictionaries
 - OOP
