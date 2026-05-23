@@ -2,7 +2,7 @@
 age = int(input("What's your age? "))
 
 # License validity changes according to the driver's age
-# Conditions are checked from highest age to lowest age
+# Conditions are checked from lowest age to highest age
 
 if age < 18:
     print("You are not old enough to drive!")
